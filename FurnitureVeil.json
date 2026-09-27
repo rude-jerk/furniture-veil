@@ -1,0 +1,15 @@
+{
+  "Author": "Rude",
+  "Name": "Furniture Veil",
+  "InternalName": "FurnitureVeil",
+  "AssemblyVersion": "0.1.0.0",
+  "Punchline": "Hide and replace that gpose furniture that's too small for you",
+  "Description": "Hide and replace that gpose furniture that's too small for you",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/rude-jerk/furniture-veil",
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "Tags": ["gpose", "housing", "furniture"]
+}
